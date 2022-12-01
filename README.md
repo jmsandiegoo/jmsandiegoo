@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jm San Diego</h1>
 <h3 align="center">A passionate web developer from Singapore!</h3>
+<p align=center >
+  <img src="https://user-images.githubusercontent.com/49123896/205027641-dada282d-cd6c-45f7-95ee-0d6e780e6096.png" />
+</p>
 
 - 🔭 I’m currently working on **a web3 project**
 
