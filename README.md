@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **a web3 project**
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **Backend (Golang)**
 
 - 📫 How to reach me **sandiegojm0710@gmail.com**
 
