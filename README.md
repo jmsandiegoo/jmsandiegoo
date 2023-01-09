@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jm San Diego</h1>
-<h3 align="center">A passionate web developer from Singapore!</h3>
+<h3 align="center">A passionate web2/3 developer from Singapore!</h3>
 <p align=center >
   <img width=200 height=200 src="https://user-images.githubusercontent.com/49123896/205028297-6965640d-fa82-4dfb-add3-01e58e6f64ec.gif" />
 </p>
