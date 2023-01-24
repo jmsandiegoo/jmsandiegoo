@@ -10,6 +10,8 @@
 
 - 📫 How to reach me **sandiegojm0710@gmail.com**
 
+- 👔 Connect with me on [Linkedin](https://www.linkedin.com/in/john-michael-san-diego-a3b128142/)
+
 <p align="left">
 </p>
 
