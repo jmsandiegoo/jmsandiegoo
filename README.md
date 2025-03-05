@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on a **NUS Web Application for students**
 
-- 🌱 I’m currently learning **Flutter & Supabase**
+- 🌱 I’m currently interning at Continental Automotive Pte Ltd (Singapore)
 
 - 📫 How to reach me **sandiegojm0710@gmail.com**
 
