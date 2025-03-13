@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on a **NUS Web Application for students**
 
-- 🌱 Interning at Continental Automotive Pte Ltd (Singapore)
+- 🌱 Interning at **Continental Automotive Pte Ltd (Singapore)**
 
 - 📫 How to reach me **sandiegojm0710@gmail.com**
 
