@@ -4,7 +4,7 @@
   <img width=200 height=200 src="https://user-images.githubusercontent.com/49123896/205028297-6965640d-fa82-4dfb-add3-01e58e6f64ec.gif" />
 </p>
 
-- 🔭 I’m currently working on a **NUS Web Application for students**
+- 🔭 I’m currently working on a **Telegram bot for Thrifted Clicks 📸**
 
 - 🌱 Interning at **Continental Automotive Pte Ltd (Singapore)**
 
