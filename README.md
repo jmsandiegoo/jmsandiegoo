@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on a **Lightweight POS to be developed with React Native & .Net**
 
-- 🌱 Interning at **Continental Automotive Pte Ltd (Singapore)**
+- 🌱 Interning at **Eureka Technologies Pte Ltd (Singapore)**
 
 - 📫 How to reach me **sandiegojm0710@gmail.com**
 
